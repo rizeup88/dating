@@ -1,0 +1,27 @@
+h1 {
+	text-align: center;
+}
+
+h4 {
+	text-align: center;
+}
+
+.quiz {
+	text-align: center;
+	margin-top: 1em;
+}
+
+.btn {
+	margin-left: 1em;
+	text-align: center;
+	display: inline-block;
+}
+
+#celebrity {
+	margin-top: 1em;
+	display: none;
+}
+
+#swift, #jennifer, #bieber, #mario {
+	display: none;
+}
